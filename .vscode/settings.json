@@ -17,7 +17,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Default Light Modern",
   "workbench.editorAssociations": {
     "*.svg": "default"
   },
